@@ -1,0 +1,6 @@
+.idea/
+.venv/
+data/
+__pycache__/
+lightning_logs/
+wandb/
